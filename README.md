@@ -13,9 +13,9 @@ The mobile application was developed using Kotlin in Android Studio, with the us
 3. The pests data covers information on ants, aphids, beetles, bollworms, caterpillars, fleas, flies, leaf miners, mites, snails, spiders, and slugs.
 
 ## How to Access the App:
-You can log in to the application using the following credentials:
-Email: tom@gmail.com
-Password: password123Q
+You can log in to the application using the following credentials:<br>
+Email: tom@gmail.com<br>
+Password: password123Q<br>
 
 ## Relevant Links:
 
