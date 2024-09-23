@@ -1,7 +1,7 @@
 # Design and Development of a Mobile Application to Support Sustainable Agricultural Management with Pest Identification
 
 ## Project Overview:
-This project aimed to develop an Android mobile application designed to help users efficiently manage their crops, with a key focus on pest identification to provide farmers with essential tools for crop protection. 
+This project aimed to design and develop an Android mobile application designed to help users efficiently manage their crops, with a key focus on pest identification to provide farmers with essential tools for crop protection. 
 
 One of the main features of the app is a comprehensive crop encyclopaedia, where users can find information on symptoms, causes, prevention methods, and recommendations for various crop diseases. The app also includes a pest identification section, allowing users to select a specific field, upload photos, and receive solutions to prevent and control the pests identified in the uploaded images.Additionally, the app displays weather information for specific locations and provides a list of fields. Users can review detailed information about each field by clicking on the field's name, making it easier to monitor and manage their crops.
 
